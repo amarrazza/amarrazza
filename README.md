@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Austin</h1>
+<h1 align="center">Hi 👋,  I'm Austin</h1>
 <h3 align="center">A Full-Stack Web Developer</h3>
 
 - 🔭 I’m currently working on [an NFT community hub](https://alphapills.vercel.app/)
 
 - 🌱 I’m currently learning **Next.js, typescript, and GraphQL**
 
-- 📫 How to reach me **marrazza.austin@gmail.com**
+- 📫 **marrazza.austin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
